@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    width: 100vw;
+    width: 100%;
     background: #468B97;
 }
 
